@@ -1,6 +1,6 @@
 
 # Python-Project
-_A simple student management web application with CRUD operations developed in Django and React Js_
+_A simple student management web application with CRUD operations developed in Django,MYSQL and React Js_
 
 ## Requirements
 Make sure you have python and Node js installed on your system:
@@ -45,6 +45,27 @@ Make sure you have python and Node js installed on your system:
 - Start Django server
   ```sh
    python manage.py runserver
+    ```
+- Install Mysql
+  ```sh
+   pip install pymysql
+    ```
+
+- Install the CORS
+  ```sh
+   pip install django-cors-headers
+    ```
+
+- Install the Rest Framework
+  ```sh
+   pip install djangorestframework
+    ```
+
+
+- Install the database Url and mysqlclient
+  ```sh
+   pip install dj-database-url
+   pip install mysqlclient
     ```
 - Django backend server will start on http://localhost:8000/
 
