@@ -6,7 +6,7 @@ _A simple student management web application with CRUD operations developed in D
 Make sure you have python and Node js installed on your system:
 - [Python version 3.9.13](https://www.python.org/downloads/release/python-3913/) 
 - [Node version 16.7.1](https://nodejs.org/en/download/)
-- - [Xampp version](https://www.apachefriends.org/download.html)
+- [Xampp version 8.0](https://www.apachefriends.org/download.html)
 
 
 ## Project Setup
